@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Starter
-build_property.ProjectDir = C:\Users\tarbo\Documents\Projects\PetAdoptionProject\Starter\
+build_property.ProjectDir = C:\Users\tarbo\Documents\Projects\PetAdoptionProject\starter\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\Starter\\Starter.csproj": {}
+    "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\starter\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\Starter\\Starter.csproj": {
+    "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\Starter\\Starter.csproj",
+        "projectPath": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\tarbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarbo\\AppData\\Roaming\\NuGet\\NuGet.Config"

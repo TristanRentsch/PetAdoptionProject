@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RbDTSK45cJjKhL8X9BTWjh2p0a9mA6ABSqDno+lNrCGOmf3hnzY5xaA2gygQS8o1twNIUEsyoLI9MAHohCLoAQ==",
+  "dgSpecHash": "C+iKGLD51pMG78oyYPS788EXWS4ZELxxgcUQNnf0ZVFNTIUrqvkBDCh3H0RNLHo1MN8Q2mcsw7Pm27o5/q4D2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\Starter\\Starter.csproj",
+  "projectFilePath": "C:\\Users\\tarbo\\Documents\\Projects\\PetAdoptionProject\\starter\\Starter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
